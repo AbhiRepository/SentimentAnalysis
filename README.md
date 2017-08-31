@@ -1,4 +1,4 @@
 # SentimentAnalysis
 Sentiment analysis using NLTK
 
-<img src="https://www.python.org/static/opengraph-icon-200x200.png" height="42" width="42">
+<img src="https://www.python.org/static/opengraph-icon-200x200.png">
